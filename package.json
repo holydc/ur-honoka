@@ -1,0 +1,23 @@
+{
+  "name": "ur-honoka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jsdom": "^9.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holydc/ur-honoka.git"
+  },
+  "author": "holydc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holydc/ur-honoka/issues"
+  },
+  "homepage": "https://github.com/holydc/ur-honoka#readme"
+}
